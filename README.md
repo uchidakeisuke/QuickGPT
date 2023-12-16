@@ -8,4 +8,4 @@ This app displays messages responded from ChatGPT in stream mode.
 
 Any OpenAI API Key is needed to use this app.
 
-Set it on Preferences window.
+Set the API Key on Preferences window.
